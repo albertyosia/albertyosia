@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @albertyosia
+- 👋 Hi, there! My name is Albert
+- 🎓 I'm a computer science undergraduate
 - 👀 I’m interested in Web & Mobile Development
+- 📖 Currently learning MERN Stack
 
 <!---
 albertyosia/albertyosia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
