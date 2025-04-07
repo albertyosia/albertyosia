@@ -1,5 +1,5 @@
 - 👋 Hi, there! My name is Albert
-- 🎓 I'm a computer science undergraduate
+- 🎓 I'm a computer science graduate
 - 👀 I’m interested in Web & Mobile Development
 - 📖 Currently learning MERN Stack
 
